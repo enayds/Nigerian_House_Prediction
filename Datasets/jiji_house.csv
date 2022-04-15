@@ -1,0 +1,9 @@
+price,location,house_type,rooms,bathrooms,rent_duration,PROPERTY ADDRESS,ESTATE NAME,PROPERTY SIZE,CONDITION,FURNISHING,PETS,FACILITIES,SERVICE CHARGE,AGENCY FEE,LEGAL AND AGREEMENT FEE,CAUTION FEE
+"₦ 180,000","Nasarawa, Karu-Nasarawa",Block of Flats,1 bedroom,1 bathroom,per annum,Aso Maraba,.,2000 sqm,Newly Built,Unfurnished,Pets Allowed,"24 Hours Electricity,Dining Area,Kitchen Shelf,Pre Paid Meter,Tiled Floor",Yes,,,
+"₦ 200,000","Kaduna, Kaduna / Kaduna State",Block of Flats,1 bedroom,2 bathrooms,anually,Behind northern noodles company,Tasu villa,,Newly Built,Furnished,,"Kitchen Cabinets,Kitchen Shelf,24 Hours Electricity,Hot Water,Pre Paid Meter,Tiled Floor,Dishwasher,Pop Ceiling,Dining Area",,,,
+"₦ 5,000,000","Lagos, Ikoyi",Apartment,1 bedroom,2 bathrooms,per annum,Old Ikoyi,,,Fairly Used,Semi-Furnished,,,,,,
+"₦ 250,000","Kaduna, Kaduna / Kaduna State",Block of Flats,1 bedroom,2 bathrooms,anually,Mahuta extension,oil village,,Newly Built,Furnished,,"Kitchen Shelf,Dishwasher,Hot Water,Kitchen Cabinets,24 Hours Electricity,Pre Paid Meter,Wardrobe",,,,
+"₦ 400,000","Lagos, Yaba",Studio Apartment,1 bedroom,1 bathroom,per annum,Via Herbert Macaulay,,,Fairly Used,Semi-Furnished,,"Kitchen Cabinets,Pre Paid Meter,Tiled Floor,Balcony,Kitchen Shelf,Pop Ceiling",,,,
+"₦ 250,000","Oyo, Oluyole",Bungalow,1 bedroom,1 bathroom,per annum,JANKATA KUOLA,Jankata Sreet,650 sqm,Newly Built,Semi-Furnished,No Pets,"Balcony,24 Hours Electricity,Dishwasher,Pre Paid Meter,Tiled Floor,Kitchen Shelf",,,,
+"₦ 250,000",none,Room & Parlour,1 bedroom,1 bathroom,per annum,elewuro,Akobo,900 sqm,Fairly Used,Semi-Furnished,Pets Allowed,"Pop Ceiling,Tiled Floor,Wardrobe,Kitchen Shelf,Kitchen Cabinets,24 Hours Electricity,Air Conditioning",Yes,50000,25000,25000
+"₦ 100,000",none,Studio Apartment,1 bedroom,1 bathroom,per annum,Araromi Akesan igando,,,Fairly Used,Furnished,,,,,,
